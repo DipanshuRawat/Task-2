@@ -105,12 +105,13 @@ unauthorized: incorrect username or password
 
 If the pipeline executes successfully:
 
+![image](https://github.com/user-attachments/assets/3faf8a3c-1fda-4dc4-8a49-eb591fdc82a2)
+
 - ✔ Code cloned from GitHub
 - ✔ Docker image built
 - ✔ Node.js app tested
 - ✔ Image pushed to Docker Hub as:
 
-![image](https://github.com/user-attachments/assets/3faf8a3c-1fda-4dc4-8a49-eb591fdc82a2)
 
 
 ```
